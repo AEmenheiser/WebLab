@@ -1,0 +1,28 @@
+body {
+    margin: 50px 50px 50px 50px;
+    font-size: xx-large; 
+    background-color: yellow;
+}
+
+.para1{
+
+    font-size: small;
+    background-color: aqua;
+    backface-visibility: visible;
+    font-stretch: expanded;
+
+}
+.para2 {
+    
+    border-style: dotted;
+    border-color: blue;
+}
+
+
+.buttons{
+    background-color: cornflowerblue
+}
+.morebuttons{
+    background-color: coral;
+    
+}
